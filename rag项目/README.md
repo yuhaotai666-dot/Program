@@ -19,13 +19,13 @@
 
 ### Tab 1 — 职位分析 & 市场看板
 
-![Job Analysis](docs/screenshot_job_analysis.png)
+![Job Analysis](https://raw.githubusercontent.com/yuhaotai666-dot/Program/main/rag%E9%A1%B9%E7%9B%AE/docs/screenshot_job_analysis.png)
 
 搜索职位后，左侧展示 Top-N 职位列表（公司、地点、薪资、技能标签），右侧展示市场总览、技能频率柱状图与地点分布饼图。
 
 ### Tab 2 — 技能匹配 & 学习路线
 
-![Skill Match & Learning Path](docs/screenshot_skill_match.png)
+![Skill Match & Learning Path](https://raw.githubusercontent.com/yuhaotai666-dot/Program/main/rag%E9%A1%B9%E7%9B%AE/docs/screenshot_skill_match.png)
 
 输入当前专业、现有技能和目标职位，系统从 50k+ 真实岗位中提取高频技能进行 grounding，由 LLM 生成匹配分析与阶段性学习路线图。
 
